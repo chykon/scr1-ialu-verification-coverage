@@ -1,1 +1,0 @@
-# scr1-ialu-verification-coverage
